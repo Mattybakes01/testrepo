@@ -3,3 +3,5 @@ New line new commit
 Third commit mwahah
 
 This change was done in the dev branch
+
+This line was added in github for Git fetch demonstration
